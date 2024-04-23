@@ -7,6 +7,7 @@ PRODUCT_SOONG_NAMESPACES += \
 
 PRODUCT_COPY_FILES += \
     vendor/xibo/quicksilver/proprietary/vendor/etc/bluetooth/BCM4345C5.hcd:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth/BCM4345C5.hcd \
+    vendor/xibo/quicksilver/proprietary/vendor/etc/bluetooth/bt_vendor.conf:$(TARGET_COPY_OUT_VENDOR)/etc/bluetooth/bt_vendor.conf \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/config.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/config.txt \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/fw_bcm43455c0_ag.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/fw_bcm43455c0_ag.bin \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/fw_bcm43455c0_ag_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/fw_bcm43455c0_ag_apsta.bin \
