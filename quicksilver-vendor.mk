@@ -14,7 +14,8 @@ PRODUCT_COPY_FILES += \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/fw_bcm43456c5_ag.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/fw_bcm43456c5_ag.bin \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/fw_bcm43456c5_ag_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/fw_bcm43456c5_ag_apsta.bin \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/nvram_ap6255.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/nvram_ap6255.txt \
-    vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/nvram_ap6256.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/nvram_ap6256.txt
+    vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/nvram_ap6256.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/nvram_ap6256.txt \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so
 PRODUCT_COPY_FILES += \
     vendor/xibo/quicksilver/proprietary/vendor/etc/tvconfig/pq/pq.db:$(TARGET_COPY_OUT_VENDOR)/etc/tvconfig/pq/pq.db \
     vendor/xibo/quicksilver/proprietary/vendor/etc/tvconfig/pq/pq_default.ini:$(TARGET_COPY_OUT_VENDOR)/etc/tvconfig/pq/pq_default.ini \
