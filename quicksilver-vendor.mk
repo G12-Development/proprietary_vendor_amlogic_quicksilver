@@ -16,10 +16,12 @@ PRODUCT_COPY_FILES += \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/fw_bcm43456c5_ag_apsta.bin:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/fw_bcm43456c5_ag_apsta.bin \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/nvram_ap6255.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/nvram_ap6255.txt \
     vendor/xibo/quicksilver/proprietary/vendor/etc/wifi/6255/nvram_ap6256.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/6255/nvram_ap6256.txt \
-    vendor/xibo/quicksilver/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so
-PRODUCT_COPY_FILES += \
-    vendor/xibo/quicksilver/proprietary/vendor/etc/tvconfig/pq/pq.db:$(TARGET_COPY_OUT_VENDOR)/etc/tvconfig/pq/pq.db \
-    vendor/xibo/quicksilver/proprietary/vendor/etc/tvconfig/pq/pq_default.ini:$(TARGET_COPY_OUT_VENDOR)/etc/tvconfig/pq/pq_default.ini \
-    vendor/xibo/quicksilver/proprietary/vendor/lib/egl/libGLES_mali.so:$(TARGET_COPY_OUT_VENDOR)/lib/egl/libGLES_mali.so \
-    vendor/xibo/quicksilver/proprietary/vendor/lib/hw/gralloc.amlogic.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/gralloc.amlogic.so \
-    vendor/xibo/quicksilver/proprietary/vendor/lib/hw/hwcomposer.amlogic.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/hwcomposer.amlogic.so
+    vendor/xibo/quicksilver/proprietary/vendor/lib/liboemcrypto.so:$(TARGET_COPY_OUT_VENDOR)/lib/liboemcrypto.so \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/00d1ca22-1764-4e35-90aa-5b8c12630764.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/00d1ca22-1764-4e35-90aa-5b8c12630764.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/2c1a33c0-44cc-11e5-bc3b0002a5d5c51b.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/2c1a33c0-44cc-11e5-bc3b0002a5d5c51b.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/526fc4fc-7ee6-4a12-96e3-83da9565bce8.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/526fc4fc-7ee6-4a12-96e3-83da9565bce8.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/8efb1e1c-37e5-4326-a5d68c33726c7d57.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/8efb1e1c-37e5-4326-a5d68c33726c7d57.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/9a04f079-9840-4286-ab92e65be0885f95.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/9a04f079-9840-4286-ab92e65be0885f95.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/e043cde0-61d0-11e5-9c260002a5d5c51b.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/e043cde0-61d0-11e5-9c260002a5d5c51b.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/e92a43ab-b4c8-4450-aa12b1516259613b.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/e92a43ab-b4c8-4450-aa12b1516259613b.ta \
+    vendor/xibo/quicksilver/proprietary/vendor/lib/teetz/ff2a4bea-ef6d-11e6-89ccd4ae52a7b3b3.ta:$(TARGET_COPY_OUT_VENDOR)/lib/teetz/ff2a4bea-ef6d-11e6-89ccd4ae52a7b3b3.ta
